@@ -1,0 +1,23 @@
+* {
+  font-family: "Fira Sans", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f3f2fa;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+.card__section {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  justify-items: center;
+  gap: 32px;
+  margin-top: 72px;
+}

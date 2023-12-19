@@ -1,0 +1,15 @@
+.hero__container {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 100px;
+  align-items: center;
+  margin-top: 64px;
+}
+
+.hero__container h1 {
+  color: #1a1a1f;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 72px;
+}

@@ -1,0 +1,21 @@
+.categories__btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 30px;
+  padding: 8px 16px;
+  color: #d6961c;
+  background-color: rgba(255, 184, 47, 0.08);
+  border: none;
+  outline: none;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 16px;
+}
+
+.categories__btn:hover {
+  outline: 1px solid black;
+  cursor: pointer;
+}

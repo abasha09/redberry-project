@@ -1,0 +1,11 @@
+.header__container {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1980px;
+  max-height: 80px;
+  padding: 28px 76px;
+  height: 100%;
+  width: 100%;
+  background-color: #fff;
+  border-bottom: 1px solid #e4e3eb;
+}
