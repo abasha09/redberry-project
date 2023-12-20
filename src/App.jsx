@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="home">
       <Header />
-      {/* <Hero />
+      <Hero />
       <Categories />
       <div className="card__section">
         <Card />
@@ -19,8 +19,7 @@ function App() {
         <Card />
         <Card />
         <Card />
-      </div> */}
-      <Blog />
+      </div>
     </div>
   );
 }
