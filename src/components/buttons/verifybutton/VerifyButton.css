@@ -1,0 +1,25 @@
+.btn-submit {
+  display: flex;
+  width: 432px;
+  padding: 10px 20px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-top: 52px;
+
+  border-radius: 8px;
+  background: #5d37f3;
+
+  color: #fff;
+
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-submit:hover {
+  background: #6d37f3;
+}

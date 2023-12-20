@@ -1,0 +1,14 @@
+input {
+  width: 432px;
+  height: 44px;
+  border-radius: 12px;
+  border: 1.5px solid #e4e3eb;
+  background: #f7f7ff;
+  padding-left: 14px;
+  outline: none;
+}
+input:hover,
+input:active,
+input:focus {
+  border: 1.5px solid #5d37f3;
+}
